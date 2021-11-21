@@ -1,3 +1,4 @@
 # Auto-Layout-Calculator
 
-![alt text](screenshots/AutoLayoutCalculator.png)
+![Image alt](https://github.com/shanidzeann/Screenshots/blob/main/AutoLayoutCalculator.png)
+
