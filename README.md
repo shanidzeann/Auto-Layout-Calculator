@@ -2,5 +2,5 @@
 
 Using Stack Views 
 
-![Image alt](https://github.com/shanidzeann/Screenshots/blob/main/AutoLayoutCalculator.png)
+![Image alt](https://github.com/shanidzeann/Screenshots/blob/master/AutoLayoutCalculator.png)
 
